@@ -3,7 +3,7 @@
 A simple Android app for currency exchange, built with Jetpack Compose and Hilt.  
 Users can view balances, convert currencies, and see real-time exchange rates.
 
-# Generated APK
+## Generated APK
  [CurEx APK](https://github.com/logartaa/CurEx/blob/main/apk-build/app-debug.apk)
 
 
